@@ -2,6 +2,8 @@
 
 Simple scoring sheet done in LaTeX.
 
+![img](./screenshot.png)
+
 ## Features
 
 - Default board configuration is reported in the first page along with PGN legend: ideal for beginners
